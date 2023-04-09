@@ -1,5 +1,5 @@
 # CNCFStudents
 
-About
-Mission
-Getting started
+- About
+- Mission
+- Getting started
