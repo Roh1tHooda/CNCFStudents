@@ -1,3 +1,4 @@
+- Explain terminologies
 - Twitter
 - CNCF Students Community Group
 - GitHub repos
