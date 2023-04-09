@@ -3,4 +3,5 @@
 - CNCF Students Community Group
 - GitHub repos
 - CNCF Slack
+- add a mailing list google group
 - etc
