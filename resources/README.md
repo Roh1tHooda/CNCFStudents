@@ -1,0 +1,5 @@
+- Twitter
+- CNCF Students Community Group
+- GitHub repos
+- CNCF Slack
+- etc
